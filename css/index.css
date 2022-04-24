@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body{
+    padding: 10px;
+}
+*{
+    background-color: rgb(236, 236, 236);
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    font-size: 20pt;
+    font-style: italic;
+}
+
+.titulo{
+    color: rgb(255, 0, 0);
+    background-color: rgb(182, 182, 182);
+    text-align: center;
+    padding: 10px;
+}
+
+.tag{
+    color: blue;
+    margin: 15px 0px 5px 0px;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-size: 16pt;
+    font-style: italic;
+    font-family: Georgia;
+    margin: 5px;
+}
+
+.utilizacao{
+    border: solid 2px black;
+    border-radius: 10pt;
+    padding: 10px;
+}
+
+ul{
+    margin-left: 30px;
+}
